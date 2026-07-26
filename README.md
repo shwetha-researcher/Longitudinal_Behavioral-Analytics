@@ -32,6 +32,6 @@ Because this dataset is bounded by a **Single-Participant Cohort ($N=1$)** and a
     ---
 
 ## ✍️ Analytical Deep Dive
-*   **Research Commentary**: Read the full methodology breakdown, data cleansing process, and schema layout details in my technical report:  
-    👉 **[Curiosity Wrote the Research Before I Did (Medium Article 12)](https://medium.com/@princess.uni.1008/curiosity-wrote-the-research-before-i-did-cf7676963ece)**
+*   **Research Commentary**: Read the full methodology breakdown, data cleansing process, and schema layout details in my technical report:
+  👉 **[Curiosity Wrote the Research Before I Did (Medium Article 12)](https://medium.com/@princess.uni.1008/curiosity-wrote-the-research-before-i-did-cf7676963ece)**
 
