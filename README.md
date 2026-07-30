@@ -33,4 +33,4 @@ Because this dataset is bounded by a **Single-Participant Cohort ($N=1$)** and a
 
 
 ## 📚 Documentation
-* 📄 **Full Technical Paper**: Read the detailed 10-page text report spanning Abstract, Methodology, Discussion, and Limitations here: **[ENP_Research_Report.pdf](./ENP_Research_Report.pdf)**
+**Full Technical Paper**: Read the detailed 10-page text report spanning Abstract, Methodology, Discussion, and Limitations here: **[ENP_Research_Report.pdf](./documents/ENP_Research_Report.pdf)**
