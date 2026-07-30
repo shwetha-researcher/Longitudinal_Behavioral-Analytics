@@ -32,3 +32,5 @@ Because this dataset is bounded by a **Single-Participant Cohort ($N=1$)** and a
   👉 **[Curiosity Wrote the Research Before I Did (Medium Article 12)](https://medium.com/@princess.uni.1008/curiosity-wrote-the-research-before-i-did-cf7676963ece)**
 
 
+## 📚 Documentation
+* 📄 **Full Technical Paper**: Read the detailed 10-page text report spanning Abstract, Methodology, Discussion, and Limitations here: **[ENP_Research_Report.pdf](./ENP_Research_Report.pdf)**
